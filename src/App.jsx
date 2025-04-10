@@ -2,7 +2,7 @@ import React from "react";
 import './index.css'
 import Home from "./pages/home";
 import { Route ,Routes } from "react-router-dom";
-import Detail from "./pages/detail.";
+import Detail from "./pages/detail";
 
 
 const App = () => {
