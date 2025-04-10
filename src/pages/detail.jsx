@@ -11,11 +11,10 @@ const Detail = () => {
           src="/caps_images/hop.jpg"
         />
         <div className="absolute inset-0 flex items-center justify-center text-white text-6xl font-bold font-roboto">
-          Discover Unique Cap Styles
+          From the streets to the stadium, we've got you covered
         </div>
         <div className="mt-40 absolute inset-0 flex items-center justify-center text-white font-light  text-2xl font-roboto">
-          Discover our premium selection of bespoke caps designed for both
-          fashion and function,
+          Wearing a cap to hide the messy hair, but still slaying the day
           <br />
           crafted to reflect your individualit
         </div>
