@@ -1,5 +1,6 @@
 import React from "react";
 import Footer from "../footer.jsx";
+import { Link } from "react-router-dom";
 
 const Detail = () => {
     return (
